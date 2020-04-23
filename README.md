@@ -1,4 +1,7 @@
 # Low-cost-LCR-meter
+
+This is a course project from University of Teaxas Arlington EE department using ARM cortex M4 based controller.
+
 LCR meter is developed using TM4C123GH6PM microcontroller 
 
 1 Overview
